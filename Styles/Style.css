@@ -1,0 +1,34 @@
+html,
+.BodyContainer1{
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.BodyCardContainer{
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.BodyContainer2{
+    margin-top: 5px;
+    
+}
+
+.CardContainer{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.ButtonContainer{
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    justify-content: center;
+
+}
